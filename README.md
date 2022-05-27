@@ -1,2 +1,2 @@
 # cndfr.github.io
-My public page
+Public page
